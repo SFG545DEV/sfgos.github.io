@@ -4,70 +4,83 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SFGOS - The Gaming Linux OS</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
     <meta name="description" content="SFGOS is a Linux distribution optimized for gaming, offering unparalleled performance and a seamless experience for gamers.">
     <meta property="og:title" content="SFGOS - The Gaming Linux OS">
     <meta property="og:description" content="Optimized for gamers, SFGOS offers unparalleled gaming performance on Linux.">
 </head>
-<body class="dark-mode">
-    <!-- Header with Logo and Navigation Links -->
-    <header>
-        <img src="images/sfgos-logo.png" alt="SFGOS Logo" class="logo">
-        <h1>Welcome to SFGOS</h1>
-        <p>Your go-to Linux OS for optimized gaming performance.</p>
+<body>
+    <!-- Navigation Bar -->
+    <header class="navbar">
+        <div class="logo">
+            <img src="images/sfgos-logo.png" alt="SFGOS Logo">
+        </div>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="download.html">Download</a>
+            <a href="#about">About</a>
+            <a href="downloads.html">downloads</a>
             <a href="docs.html">Documentation</a>
             <a href="community.html">Community</a>
             <a href="known-issues.html">Known Issues</a>
         </nav>
     </header>
 
-    <!-- About Section -->
-    <section id="about">
-        <h2>About SFGOS</h2>
-        <p>SFGOS is an Arch Linux-based distribution tailored for gaming enthusiasts. Designed to deliver high performance, it’s perfect for gamers looking for a Linux OS with smooth and powerful gameplay.</p>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>SFGOS: The Ultimate Gaming Linux OS</h1>
+            <p>Experience unparalleled gaming performance with a Linux distribution designed for gamers.</p>
+            <a href="download.html" class="cta-button">Download Now</a>
+        </div>
     </section>
 
-    <!-- Key Features Section with Icons -->
-    <section id="features">
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <h2>About SFGOS</h2>
+        <p>SFGOS is an Arch Linux-based distribution optimized for gaming. With built-in support for a wide range of gaming hardware and software, SFGOS offers smooth gameplay, fast performance, and ease of use.</p>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features-section">
         <h2>Key Features</h2>
         <div class="feature-grid">
             <div class="feature-item">
                 <img src="images/driver-support-icon.png" alt="Driver Support">
                 <h3>Pre-installed Drivers</h3>
-                <p>Get started quickly with all essential drivers pre-installed, ensuring compatibility with a wide range of hardware.</p>
+                <p>Get started quickly with all essential drivers pre-installed for a seamless gaming experience.</p>
             </div>
             <div class="feature-item">
                 <img src="images/performance-icon.png" alt="Optimized Performance">
                 <h3>Optimized Performance</h3>
-                <p>Experience high frame rates and low latency with SFGOS’s performance optimizations, ideal for serious gamers.</p>
+                <p>Enjoy smoother gameplay with high frame rates and low latency, tailored for gamers.</p>
             </div>
             <div class="feature-item">
-                <img src="images/ease-of-use-icon.png" alt="Ease of Use">
+                <img src="images/ease-of-use-icon.png" alt="Easy Setup">
                 <h3>Easy Setup and Updates</h3>
-                <p>Our setup assistant and streamlined update process make it simple to keep your system up-to-date with the latest enhancements.</p>
+                <p>Simple setup and effortless updates ensure your system stays at peak performance.</p>
             </div>
             <div class="feature-item">
-                <img src="images/community-icon.png" alt="Community">
+                <img src="images/community-icon.png" alt="Community Support">
                 <h3>Community Support</h3>
-                <p>Join a community of like-minded users and developers to share tips, ask questions, and contribute to SFGOS.</p>
+                <p>Join a vibrant community of gamers and developers to share tips, contribute, and ask questions.</p>
             </div>
         </div>
     </section>
 
-    <!-- Call to Action -->
-    <section id="call-to-action">
-        <h2>Get Started with SFGOS</h2>
-        <p>Ready to experience Linux gaming like never before? Download SFGOS today and start your journey.</p>
+    <!-- Call to Action Section -->
+    <section class="cta-section">
+        <h2>Ready to Start?</h2>
+        <p>Download SFGOS and take your gaming experience to the next level with Linux!</p>
         <a href="download.html" class="cta-button">Download SFGOS</a>
     </section>
 
     <!-- Footer -->
-    <footer>
+    <footer class="footer">
         <p>&copy; 2024 SFGOS. All rights reserved.</p>
-        <p>Follow us on <a href="#">Twitter</a> | <a href="#">GitHub</a></p>
+        <div class="social-links">
+            <a href="#">Twitter</a> | <a href="#">GitHub</a>
+        </div>
     </footer>
+
 </body>
 </html>

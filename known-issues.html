@@ -4,40 +4,64 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Known Issues - SFGOS</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/know.css">
 </head>
 <body>
-    <!-- Header with Logo and Navigation Links -->
+
+    <!-- Header Section -->
     <header>
-        <img src="images/sfgos-logo.png" alt="SFGOS Logo" class="logo">
-        <h1>Known Issues</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="download.html">Download</a>
-            <a href="docs.html">Documentation</a>
-            <a href="community.html">Community</a>
-            <a href="known-issues.html">Known Issues</a>
-        </nav>
+        <div class="container">
+            <h1>Known Issues</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="downloads.html">Downloads</a></li>
+                    <li><a href="community.html">Community</a></li>
+                    <li><a href="known-issues.html" class="active">Known Issues</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <!-- Known Issues Section -->
-    <section id="issues">
-        <h2>Current Known Issues</h2>
-        <ul>
-            <li>
-                <strong>Issue 1:</strong> In the 1.0 beta, calamares does not remove the packages needed for installation.
-            </li>
-            <li>
-                <strong>Issue 2:</strong> REFInd bootloader is being used temporary in the 1.0 beta until grub begins working again.
-            </li>
-            <!-- Add more issues as needed -->
-        </ul>
-    </section>
+    <!-- Main Section -->
+    <main>
+        <div class="container">
+            <h2>Current Issues with SFGOS</h2>
+            <p>While we work hard to provide the best experience, some issues have been reported by users. Below is a list of known issues along with workarounds where available.</p>
+            
+            <!-- Known Issues List -->
+            <section class="issue-list">
+                <article class="issue">
+                    <h3>1. Audio Stuttering in Some Games</h3>
+                    <p>Some users have reported audio stuttering in specific games. This issue seems to be related to the sound driver.</p>
+                    <p><strong>Workaround:</strong> Try updating your sound driver or switching to a different audio output device.</p>
+                </article>
+                <article class="issue">
+                    <h3>2. Graphics Driver Incompatibility with Latest NVIDIA GPUs</h3>
+                    <p>Newer NVIDIA graphics cards may not perform optimally on the initial SFGOS install.</p>
+                    <p><strong>Workaround:</strong> Install the latest proprietary NVIDIA drivers manually. Refer to the <a href="https://wiki.archlinux.org/title/NVIDIA" target="_blank">Arch Wiki</a> for more details.</p>
+                </article>
+                <article class="issue">
+                    <h3>3. System Freezing After Resume from Sleep</h3>
+                    <p>There have been cases where systems freeze after resuming from sleep mode.</p>
+                    <p><strong>Workaround:</strong> This issue may be resolved by disabling hybrid sleep or adjusting kernel parameters. Please check the <a href="https://wiki.archlinux.org/title/Tips_and_tricks#Sleep_and_suspend" target="_blank">Tips & Tricks Wiki</a>.</p>
+                </article>
+                <article class="issue">
+                    <h3>4. Performance Drops in Multiplayer Games</h3>
+                    <p>Some multiplayer games show performance drops when playing online with high ping.</p>
+                    <p><strong>Workaround:</strong> Set the game’s network settings to reduce packet loss, or try using a VPN for more stable connection.</p>
+                </article>
+            </section>
+        </div>
+    </main>
 
-    <!-- Footer -->
+    <!-- Footer Section -->
     <footer>
-        <p>&copy; 2024 SFGOS. All rights reserved.</p>
-        <p>Follow us on <a href="#">Twitter</a> | <a href="#">GitHub</a></p>
+        <div class="container">
+            <p>&copy; 2024 SFGOS. All rights reserved.</p>
+            <p>For additional support, visit our <a href="community.html">Community</a> page or email us at <a href="mailto:support@sfgos.net">support@sfgos.net</a>.</p>
+        </div>
     </footer>
+
 </body>
 </html>

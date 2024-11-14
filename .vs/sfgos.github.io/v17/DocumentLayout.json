@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\docs.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\knock.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\knock.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\known-issues.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:known-issues.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\know.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\know.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\downloads.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:downloads.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\down.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\down.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\community.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:community.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\community.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\community.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "knock.css",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\knock.css",
+              "RelativeDocumentMoniker": "css\\knock.css",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\knock.css",
+              "RelativeToolTip": "css\\knock.css",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T23:31:58.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "know.css",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\know.css",
+              "RelativeDocumentMoniker": "css\\know.css",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\know.css",
+              "RelativeToolTip": "css\\know.css",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T23:29:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "known-issues.html",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\known-issues.html",
+              "RelativeDocumentMoniker": "known-issues.html",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\known-issues.html",
+              "RelativeToolTip": "known-issues.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T23:28:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "down.css",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\down.css",
+              "RelativeDocumentMoniker": "css\\down.css",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\down.css",
+              "RelativeToolTip": "css\\down.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T23:24:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docs.html",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\docs.html",
+              "RelativeDocumentMoniker": "docs.html",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\docs.html",
+              "RelativeToolTip": "docs.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T23:22:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "downloads.html",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\downloads.html",
+              "RelativeDocumentMoniker": "downloads.html",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\downloads.html",
+              "RelativeToolTip": "downloads.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T23:21:33.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "community.css",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\community.css",
+              "RelativeDocumentMoniker": "css\\community.css",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\community.css",
+              "RelativeToolTip": "css\\community.css",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T23:17:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T22:54:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwEkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T22:53:02.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "community.html",
+              "DocumentMoniker": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\community.html",
+              "RelativeDocumentMoniker": "community.html",
+              "ToolTip": "C:\\Users\\alaeb\\OneDrive\\Documentos\\GitHub\\sfgos.github.io\\community.html",
+              "RelativeToolTip": "community.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-14T22:44:58.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
